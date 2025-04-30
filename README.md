@@ -1,10 +1,10 @@
 <div align="center">
   <h1>Welcome to BookMySpot 👋🚗</h1>
-  <h3>Website for BookMySpot Project Application : <a href="https://github.com/actprivacy/BookMySpot">Click Here!</a></h3>
+  <h3>Website for BookMySpot Project Application : <a href="file:///C:/Users/kumar/OneDrive/Desktop/Online%20parking/index.html">Click Here!</a></h3>
 </div>
 
 <p align="center">
-<img src="C:\Users\kumar\OneDrive\Desktop\Online parking\images"></a>
+<img src="Car BookMyspot.jpg"></a>
 </p>
 
 
